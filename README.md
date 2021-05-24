@@ -1,6 +1,7 @@
 # Nitya Narasimhan, PhD
 
-Welcome to my website and blog on the interwebs. This is my millionth attempt to collect and organize the detritus of a long career in technology research, development and advocacy. Let's hope this one outlasts the rest!
+Welcome to my website and blog on the interwebs. 
+I have three goals: practice brevity, provide perspective, cultivate creativity
 
 May 24, 2021
 New York, NY

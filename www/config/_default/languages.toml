@@ -1,11 +1,13 @@
 
 [en]
-  title = "Clarity"
+  title = "Nitya Narasimhan, PhD"
   LanguageName = "English"
   weight = 1
 
-[pt]
-  title = "Claridade" # just for the sake of showing this is possible
-  LanguageName = "Português"
-  weight = 2
+# -- Comment out and customize below
+# -- If you want to see/support localized content options
+# [pt]
+#  title = "Claridade" # just for the sake of showing this is possible
+#  LanguageName = "Português"
+#  weight = 2
   

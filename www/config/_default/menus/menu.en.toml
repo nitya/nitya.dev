@@ -4,23 +4,50 @@
   weight = -110
 
 [[main]]
-  name = "Archives"
-  url = "post/rich-content/"
-  weight = -109
+  name = "Projects"
+  identifier = "Project"
+  weight = -108
+[[main]]
+  parent = "Overview"
+  name = "Visual Green Tech"
+  url = "/projects"
+  weight = -10
+[[main]]
+  parent = "Project"
+  name = "Visual Green Tech"
+  url = "https://sketchthedocs.dev/visual-green-tech"
+  weight = -9
+[[main]]
+  parent = "Project"
+  name = "A-B-See"
+  url = "https://sketchthedocs.dev/a-b-see"
+  weight = -8
 
 # Submenus are done this way: parent -> identifier
 [[main]]
-  name = "Links"
+  name = "Vitae"
   identifier = "Links"
   weight = -108
 [[main]]
   parent = "Links"
-  name = "LinkedIn"
-  url = "https://www.linkedin.com/"
+  name = "Presentations"
+  url = "/talks"
+  weight = -10
 [[main]]
   parent = "Links"
-  name = "Twitter"
-  url = "https://twitter.com/"
+  name = "Publications"
+  url = "/pubs"
+  weight = -9
+[[main]]
+  parent = "Links"
+  name = "Patents"
+  url = "/patents"
+  weight = -8
+[[main]]
+  parent = "Links"
+  name = "Community"
+  url = "/community"
+  weight = -7
 
 [[main]]
   name = "About"
@@ -33,15 +60,15 @@
   name = "github"
   type = "social"
   weight = 1
-  url = "https://github.com/#"
+  url = "https://github.com/nitya"
 [[social]]
   name = "twitter"
   weight = 2
-  url = "https://twitter.com/#"
+  url = "https://twitter.com/nitya"
 [[social]]
   name = "linkedin"
   weight = 3
-  url = "https://www.linkedin.com/in/#"
+  url = "https://www.linkedin.com/in/nityan"
 [[social]]
   name = "rss"
   weight = 4

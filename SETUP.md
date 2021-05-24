@@ -33,8 +33,35 @@ hugo v0.83.0+extended darwin/amd64 BuildDate=unknown
 
 `STEP 2:`
 
-Create a new website in a given folder. I'm using _www_.
+Create a new website (in www). Then add the theme dependency.
 
 ```
 $ hugo new site www
+$ cd www
+$ git submodule add https://github.com/chipzoller/hugo-clarity themes/hugo-clarity
+```
+
+
+`STEP 3:`
+
+Copy example site over as starting point. Run local server to test (validate) posts. Use "-D" option to see draft posts as well.
+
+```
+$ cp -a themes/hugo-clarity/exampleSite/* .
+$ hugo -D server
+```
+
+`STEP 4:`
+
+Configure the theme using [this guidance](https://github.com/chipzoller/hugo-clarity#configuration). Make changes in the `config/_default/config.toml` file (not in `www/config.toml`)
+
+
+`STEP 5:`
+
+Build static site for deploy. We want to have this built in `docs/` subfolder for easy GH pages hosting, so set the `publishDir` property in config.toml. Then build using this. 
+
+Add "-D" if you want deployed site built with draft versions of docs.
+
+```
+$ hugo 
 ```
