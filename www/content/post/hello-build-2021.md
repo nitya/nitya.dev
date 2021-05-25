@@ -107,7 +107,8 @@ Last but not least, check out the [Hello World](https://aka.ms/helloworld) show,
 
 And with that, I'm off to get ready for the day and everything it brings. Microsoft Build gave me a technology and community ecosystem for learning and innovation. I hope it does the same for you! Join me and my little posse as we listen, learn, and sketchnote, our way through the next 3 days!
 
-![](/images/build2021/posse.jpg)
 ---
 
 **What technologies or skills are you excited to learn about at Microsoft Build this year?**
+
+![Image with a coffee mug, a giraffe mascot, a stuffed raccon, a penguin and a mini lamp:left::round](/images/build2021/posse.jpg)
