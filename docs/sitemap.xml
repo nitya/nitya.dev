@@ -2,6 +2,42 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://nitya.dev/</loc>
+    <lastmod>2021-05-24T17:19:18-04:00</lastmod>
+  </url><url>
+    <loc>https://nitya.dev/categories/</loc>
+    <lastmod>2021-05-24T17:19:18-04:00</lastmod>
+  </url><url>
+    <loc>https://nitya.dev/categories/cloud/</loc>
+    <lastmod>2021-05-24T17:19:18-04:00</lastmod>
+  </url><url>
+    <loc>https://nitya.dev/tags/cloud-skills/</loc>
+    <lastmod>2021-05-24T17:19:18-04:00</lastmod>
+  </url><url>
+    <loc>https://nitya.dev/tags/dual-screen/</loc>
+    <lastmod>2021-05-24T17:19:18-04:00</lastmod>
+  </url><url>
+    <loc>https://nitya.dev/categories/events/</loc>
+    <lastmod>2021-05-24T17:19:18-04:00</lastmod>
+  </url><url>
+    <loc>https://nitya.dev/tags/fusion-dev/</loc>
+    <lastmod>2021-05-24T17:19:18-04:00</lastmod>
+  </url><url>
+    <loc>https://nitya.dev/post/hello-build-2021/</loc>
+    <lastmod>2021-05-24T17:19:18-04:00</lastmod>
+  </url><url>
+    <loc>https://nitya.dev/tags/learn-live/</loc>
+    <lastmod>2021-05-24T17:19:18-04:00</lastmod>
+  </url><url>
+    <loc>https://nitya.dev/categories/mobile/</loc>
+    <lastmod>2021-05-24T17:19:18-04:00</lastmod>
+  </url><url>
+    <loc>https://nitya.dev/post/</loc>
+    <lastmod>2021-05-24T17:19:18-04:00</lastmod>
+  </url><url>
+    <loc>https://nitya.dev/tags/</loc>
+    <lastmod>2021-05-24T17:19:18-04:00</lastmod>
+  </url><url>
     <loc>https://nitya.dev/projects/</loc>
     <lastmod>2021-05-24T16:48:24-04:00</lastmod>
   </url><url>
@@ -23,16 +59,8 @@
     <loc>https://nitya.dev/about/</loc>
     <lastmod>2021-05-24T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://nitya.dev/</loc>
-  </url><url>
-    <loc>https://nitya.dev/categories/</loc>
-  </url><url>
     <loc>https://nitya.dev/tags/index/</loc>
   </url><url>
-    <loc>https://nitya.dev/post/</loc>
-  </url><url>
     <loc>https://nitya.dev/series/</loc>
-  </url><url>
-    <loc>https://nitya.dev/tags/</loc>
   </url>
 </urlset>
