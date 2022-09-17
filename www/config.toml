@@ -1,6 +1,0 @@
-# DO NOT EDIT this
-# EDIT config/_default/config.toml instead
-# ------------------------------------------
-baseURL = "http://example.org/"
-languageCode = "en-us"
-title = "My Test Site"
