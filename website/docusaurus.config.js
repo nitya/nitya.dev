@@ -81,8 +81,14 @@ const config = {
         items: [
           // FIXME: TEMPORARILY DISABLE BLOG
           //{ label: "Tutorial", position: "left", type: "doc", docId: "intro",},
-          { label: "Blog",  position: "left", to: "/blog",},
-          { label: "GitHub", position: "right", href: "https://github.com/nitya/nitya.dev"},
+          { label: "Home",  position: "left", to: "/landing",},
+          { label: "Blog",  position: "left", to: "/",},
+          { 
+            href: 'https://github.com/nitya/nitya.dev',
+            position: 'right',
+            className: 'header-github-link',
+            'aria-label': 'GitHub repository',
+          },
           // if you use search
           {
             type: 'search',

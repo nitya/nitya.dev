@@ -2,6 +2,10 @@
 
 Welcome to my personal blog and website. 
 
+## Moving to Docusaurus
+[![Deploy to GitHub Pages](https://github.com/nitya/nitya.dev/actions/workflows/deploy.yml/badge.svg)](https://github.com/nitya/nitya.dev/actions/workflows/deploy.yml)
+
+
 The earlier version of this site used [Hugo](https://gohugo.io) and the [hugo-clarity](https://github.com/chipzoller/hugo-clarity#features) theme. Recently I've begun to use [Docusaurus](https://docusaurus) for a number of (work) projects, and wanted to explore richer features and customization. 
 
 Dogfooding it on my personal blog seemed a good forcing function. Some things about Docusaurus:
