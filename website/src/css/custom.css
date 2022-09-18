@@ -6,25 +6,51 @@
 
 /* You can override the default Infima variables here. */
 :root {
-  --ifm-color-primary: #2e8555;
-  --ifm-color-primary-dark: #29784c;
-  --ifm-color-primary-darker: #277148;
-  --ifm-color-primary-darkest: #205d3b;
-  --ifm-color-primary-light: #33925d;
-  --ifm-color-primary-lighter: #359962;
-  --ifm-color-primary-lightest: #3cad6e;
+  --ifm-color-primary: #a00d72;
+  --ifm-color-primary-dark: #900c67;
+  --ifm-color-primary-darker: #880b61;
+  --ifm-color-primary-darkest: #700950;
+  --ifm-color-primary-light: #b00e7d;
+  --ifm-color-primary-lighter: #b80f83;
+  --ifm-color-primary-lightest: #d01194;
   --ifm-code-font-size: 95%;
   --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.1);
 }
 
-/* For readability concerns, you should choose a lighter palette in dark mode. */
+
 [data-theme='dark'] {
-  --ifm-color-primary: #25c2a0;
-  --ifm-color-primary-dark: #21af90;
-  --ifm-color-primary-darker: #1fa588;
-  --ifm-color-primary-darkest: #1a8870;
-  --ifm-color-primary-light: #29d5b0;
-  --ifm-color-primary-lighter: #32d8b4;
-  --ifm-color-primary-lightest: #4fddbf;
+  --ifm-color-primary: #f9a826;
+  --ifm-color-primary-dark: #f89d0a;
+  --ifm-color-primary-darker: #ed9507;
+  --ifm-color-primary-darkest: #c37b05;
+  --ifm-color-primary-light: #fab342;
+  --ifm-color-primary-lighter: #fab950;
+  --ifm-color-primary-lightest: #fbca7a;
   --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.3);
 }
+
+/* Old Scheme
+
+:root {
+  --ifm-color-primary: #a70c6e;
+  --ifm-color-primary-dark: #960b63;
+  --ifm-color-primary-darker: #8e0a5e;
+  --ifm-color-primary-darkest: #75084d;
+  --ifm-color-primary-light: #b80d79;
+  --ifm-color-primary-lighter: #c00e7f;
+  --ifm-color-primary-lightest: #d9108f;
+  --ifm-code-font-size: 95%;
+  --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.1);
+}
+
+[data-theme='dark'] {
+  --ifm-color-primary: #ffa0c6;
+  --ifm-color-primary-dark: #ff76ad;
+  --ifm-color-primary-darker: #ff62a1;
+  --ifm-color-primary-darkest: #ff247b;
+  --ifm-color-primary-light: #ffcadf;
+  --ifm-color-primary-lighter: #ffdeeb;
+  --ifm-color-primary-lightest: #ffffff;
+  --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.3);
+}
+*/
