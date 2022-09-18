@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://nitya.dev/</id>
+    <title>Nitya Narasimhan, PhD Blog</title>
+    <updated>2022-09-18T00:00:00.000Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://nitya.dev/"/>
+    <subtitle>Nitya Narasimhan, PhD Blog</subtitle>
+    <icon>https://nitya.dev/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Welcome Home!]]></title>
+        <id>welcome</id>
+        <link href="https://nitya.dev/welcome"/>
+        <updated>2022-09-18T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[This is my umpteenth effort to start - and maintain - a personal website. And I am hopeful that this time I will make it!]]></summary>
+        <content type="html"><![CDATA[<p>This is my umpteenth effort to start - and maintain - a personal website. And I am hopeful that this time I will make it! </p><p>Why? </p><p>Because of late I've become obsessed with technical documentation and how websites are a product's way of <strong>rolling out a welcome mat</strong> to people who want to learn more about it, and engage productively with its features or capabilities. </p><p>And isn't that what personal websites do? They <strong>document a personal brand</strong> instead of a product, and hopefully give people a sense of what that individual does, why they do it, and <em>ways to collaborate with them</em> to build value for the community. </p><p>So here goes - an experimental sandbox site where I hope to share my three personas:</p><ul><li><strong>Posts authored as "Nitya"</strong> will focus on <em>professional development</em> building technology and soft skills that reflect my 25+ years of experience working across industry, startups, academia, and community. Plus some <em>personal development</em> posts on parenting and community-building.</li><li><strong>Posts authored as "SketchTheDocs"</strong> will focus on my interest in <em>visual storytelling</em> bringing tools like sketchnoting, visual puzzles, hand-drawn illustrations, and more, to make complex concepts easier to understand and recall for visual learners (like myself).</li><li><strong>Posts authored as "In30Days"</strong> is at the intersection of the two interests but with a focus on <em>continuous learning</em>. It is inspired by Tim Urban's <a href="https://waitbutwhy.com/2014/05/life-weeks.html" target="_blank" rel="noopener noreferrer">Life In Weeks</a> about making <em>productive plans for using our limited time</em>. In my case, I want to plan month-long sprints to learn new things.</li></ul><h2 class="anchor anchorWithStickyNavbar_LWe7" id="my-personal-compass">My Personal Compass<a class="hash-link" href="#my-personal-compass" title="Direct link to heading">​</a></h2><p>At the core, personal blogs and sites are about authenticity and sharing our lived experiences in ways that help both our future selves, and those that might be following similar (or interesecting) paths in their own lives. The tech ecosystem, social media, and cultural differences often have us questioning ourselves and our values, hitting our self-esteem as we try to find meaningful goals and navigate unexpected pitfalls. Having a personal compass pointing us in the right direction, can prevent us getting lost in the noise.</p><p>I have two. A north star that helps me find my way back whenever I feel myself going off-course or hitting rock bottom. And a mirror that helps me see myself the way people I love see me. They have have helped me navigate life through the ups and downs, and rediscover joy in learning, and purpose in moving forward. I hope you find your own compass for your journey. Thanks for stopping by.</p><table><thead><tr><th align="center">My North Star</th><th align="center">My Reflected Self</th></tr></thead><tbody><tr><td align="center"><img loading="lazy" src="https://pbs.twimg.com/media/FcE7KJ-WYAAebvV?format=jpg&amp;name=small" alt="A boy stares out a window onto a campus" class="img_ev3q"></td><td align="center"><img loading="lazy" src="https://pbs.twimg.com/media/FZKKrSJWIAYtTN9?format=jpg&amp;name=small" alt="Superhero " class="img_ev3q"></td></tr><tr><td align="center">My 13yo, gazing out at buildings on the Caltech campus in the summer of 2022</td><td align="center">A birthday gift from my young nieces - their vision of how they perceive me.</td></tr></tbody></table>]]></content>
+        <author>
+            <name>Nitya Narasimhan, PhD</name>
+            <uri>https://github.com/nitya</uri>
+        </author>
+        <author>
+            <name>SketchTheDocs</name>
+            <uri>https://twitter.com/sketchthedocs</uri>
+        </author>
+        <author>
+            <name>In30Days</name>
+            <uri>https://in30days.dev</uri>
+        </author>
+        <category label="nitya" term="nitya"/>
+        <category label="sketchthedocs" term="sketchthedocs"/>
+        <category label="in30Days" term="in30Days"/>
+    </entry>
+</feed>
