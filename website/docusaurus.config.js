@@ -138,7 +138,7 @@ const config = {
       announcementBar: {
         id: 'Follow me on LinkedIn',
         content:
-          '<b> Follow me on <a href="https://www.linkedin.com/in/nityan/recent-activity/posts/"><b>#in/nityan</b></a>  or <a href="https://twitter.com/nitya"><b>@nitya</b></a> for latest news and activity updates</b> ',
+          '<b> Follow me on <a href="https://www.linkedin.com/in/nityan/recent-activity/posts/"><b>#in/nityan</b></a>  or <a href="https://twitter.com/nitya"><b>@nitya</b></a> for updates</b> ',
         backgroundColor: '#000010',
         textColor: '#ffffff',
         isCloseable: false,
