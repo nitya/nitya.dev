@@ -115,12 +115,9 @@ const config = {
           { label: `SketchTheDocs`, to: 'https://sketchthedocs.dev' },
           { label: `Visual Guides`, to: 'https://cloud-skills.dev' },
           { label: `In #30Days`, to: 'https://in30Days.dev' },
-          { 
-           label: `Copyright © ${new Date().getFullYear()} Nitya Narasimhan, PhD`,
-           to: 'https://linkedin.com/in/nityan'
-          },
+          
         ],
-        //copyright: `Copyright © ${new Date().getFullYear()} Nitya Narasimhan, PhD`,
+        copyright: `Copyright © ${new Date().getFullYear()} Nitya Narasimhan, PhD - ❤️ Built with Docusaurus, Undraw.co`,
       },
 
       // CONFIG: the prism-react-renderer to highlight code blocks, add magic comments (influence code highlighting)
