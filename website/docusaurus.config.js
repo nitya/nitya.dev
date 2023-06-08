@@ -183,7 +183,18 @@ const config = {
       }), // ------- End preset-classic options -------
 
     ],
+    [
+      '@docusaurus/preset-classic',
+      {
+        gtag: {
+          trackingID: 'G-N03KJLXSPY',
+          anonymizeIP: true,
+        },
+      },
+    ],
   ],
+
+  
 
 };
 
