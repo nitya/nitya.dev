@@ -179,18 +179,13 @@ const config = {
         theme: {
           customCss: require.resolve("./src/css/custom.css"),
         },
-
-      }), // ------- End preset-classic options -------
-
-    ],
-    [
-      '@docusaurus/preset-classic',
-      {
         gtag: {
           trackingID: 'G-N03KJLXSPY',
           anonymizeIP: true,
         },
-      },
+
+      }), // ------- End preset-classic options -------
+
     ],
   ],
 
